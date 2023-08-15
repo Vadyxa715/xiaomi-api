@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ns1="http://www.cluetrust.com/XML/GPXDATA/1/0" creator="ZeppLife App" version="6.7.6">
+	<trk>
+		<name><![CDATA[20230807 Бег на улице]]></name>
+		<trkseg>
+			<trkpt lat="56.306732" lon="44.096367">
+				<time>2023-08-07T17:47:19Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430439, value=1.8)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.5555556</ns3:speed>
+							<ns3:cad>0.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.306732" lon="44.096355">
+				<time>2023-08-07T17:47:20Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430440, value=1.8)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.5555556</ns3:speed>
+							<ns3:cad>0.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.306732" lon="44.09634">
+				<time>2023-08-07T17:47:21Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430441, value=1.8)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.5555556</ns3:speed>
+							<ns3:cad>150.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.306736" lon="44.09632">
+				<time>2023-08-07T17:47:22Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430442, value=1.8)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.5555556</ns3:speed>
+							<ns3:cad>150.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.306747" lon="44.0963">
+				<time>2023-08-07T17:47:23Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430443, value=1.5015014)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.6666667</ns3:speed>
+							<ns3:cad>150.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.306755" lon="44.096306">
+				<time>2023-08-07T17:47:24Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691430444, value=1.1337868)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>0.88495576</ns3:speed>
+							<ns3:cad>150.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.308178" lon="44.09437">
+				<time>2023-08-07T18:48:03Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434083, value=0.36630037)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7777777</ns3:speed>
+							<ns3:cad>166.0</ns3:cad>
+							<ns3:hr>153</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.30816" lon="44.094395">
+				<time>2023-08-07T18:48:04Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434084, value=0.36576444)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7777777</ns3:speed>
+							<ns3:cad>166.0</ns3:cad>
+							<ns3:hr>153</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.30814" lon="44.094418">
+				<time>2023-08-07T18:48:05Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434085, value=0.3671072)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7777777</ns3:speed>
+							<ns3:cad>170.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.308117" lon="44.09444">
+				<time>2023-08-07T18:48:06Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434086, value=0.36968577)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7777777</ns3:speed>
+							<ns3:cad>170.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.308098" lon="44.094467">
+				<time>2023-08-07T18:48:07Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434087, value=0.37147105)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7027028</ns3:speed>
+							<ns3:cad>170.0</ns3:cad>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.30808" lon="44.09449">
+				<time>2023-08-07T18:48:08Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434088, value=0.37257823)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7027028</ns3:speed>
+							<ns3:cad>166.0</ns3:cad>
+							<ns3:hr>154</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.30806" lon="44.094513">
+				<time>2023-08-07T18:48:09Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434089, value=0.3732736)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7027028</ns3:speed>
+							<ns3:cad>166.0</ns3:cad>
+							<ns3:hr>154</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.30804" lon="44.09454">
+				<time>2023-08-07T18:48:10Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434090, value=0.3752345)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7027028</ns3:speed>
+							<ns3:cad>166.0</ns3:cad>
+							<ns3:hr>154</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.308025" lon="44.094563">
+				<time>2023-08-07T18:48:11Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434091, value=0.3796507)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.7027028</ns3:speed>
+							<ns3:cad>156.0</ns3:cad>
+							<ns3:hr>153</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+			<trkpt lat="56.308006" lon="44.094585">
+				<time>2023-08-07T18:48:12Z</time>
+				<desc><![CDATA[CommonTimeValuePoint(absoluteTime=1691434092, value=0.38595137)]]></desc>
+					<extensions>
+						<ns3:TrackPointExtension>
+							<ns3:speed>2.631579</ns3:speed>
+							<ns3:cad>156.0</ns3:cad>
+							<ns3:hr>153</ns3:hr>
+						</ns3:TrackPointExtension>
+					</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
